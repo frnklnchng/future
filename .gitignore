@@ -33,6 +33,7 @@ bundle.js.map
 npm-debug.log
 
 # Custom
+/config/keys.js
 /test
 /experimental
 /docs/wireframe.xml
