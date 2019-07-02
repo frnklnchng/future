@@ -38,3 +38,4 @@ npm-debug.log
 /experimental
 /docs/wireframe.xml
 /old
+.env
